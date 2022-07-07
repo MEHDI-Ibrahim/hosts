@@ -9,6 +9,7 @@ version: '2'
 volumes:
   orderer3.example.com:  
   peer0.org2.example.com:
+  ca_org2:
 
 networks:
   byfn:
